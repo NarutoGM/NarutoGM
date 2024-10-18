@@ -1,4 +1,4 @@
-# 💫 Abouhttps://github.com/NarutoGM/NarutoGM/issuest Me:
+# 💫 About Me:
 🚀 Passionate Full Stack Developer with a focus on Laravel, Vue.js, and React.js. Constantly exploring web design and database management.<br>🌐 Open to collaborations in both frontend and backend projects!<br>📘 Currently mastering Laravel 11 and Vue.js, always eager to embrace new opportunities for growth.<br>🔍 My Expertise: From crafting sleek web designs with Tailwind CSS and WordPress to building robust backend systems in Laravel.<br>🌟 Fun Fact: I’m always aiming to improve, balancing creativity with structure to deliver outstanding results.
 
 
