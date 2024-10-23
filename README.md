@@ -3,7 +3,7 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center;">
 
   <div style="padding: 20px;">
-    <p><strong>Full Stack Developer Intern at Firetensor</strong> with experience in developing web applications. Specialized in using <strong>Laravel</strong> and <strong>PHP</strong> to create robust and efficient solutions. Proficient in frontend development with <strong>Vue.js</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong>, <strong>JavaScript</strong>, and <strong>HTML</strong>, along with backend expertise in <strong>SQL</strong> and <strong>MySQL</strong>.</p>
+    <p><strong>Full Stack Developer </strong> with experience in developing web applications. Specialized in using <strong>Laravel</strong> and <strong>PHP</strong> to create robust and efficient solutions. Proficient in frontend development with <strong>Vue.js</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong>, <strong>JavaScript</strong>, and <strong>HTML</strong>, along with backend expertise in <strong>SQL</strong> and <strong>MySQL</strong>.</p>
     <p>Skilled in building and customizing websites using <strong>WordPress</strong> and <strong>WooCommerce</strong>, offering comprehensive e-commerce solutions. Experienced with <strong>Git</strong> for efficient code management and team collaboration.</p>
     <p>Dedicated to code quality, performance optimization, and adhering to best practices in software development.</p>
   </div>
